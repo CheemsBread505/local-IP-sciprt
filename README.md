@@ -13,7 +13,7 @@ A script coded in C that prints out your local IP
   
  Open the ".bash_profile" file:
 
-      vim _~/.bash_profile_
+    vim ~/.bash_profile
 
   And add `/opt/localIP/` to the file, save and quit.
 
