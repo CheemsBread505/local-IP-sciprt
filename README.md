@@ -1,4 +1,5 @@
 # local-IP-sciprt
+A script coded in C that prints out your local IP
 
 **How to install**
 
@@ -7,9 +8,17 @@
 **And then:**
 
     sudo cp localIP /opt/localIP/ && rm localIP
+   
+  **And the final step:**
+  
+ Open the ".bash_profile" file:
+
+      vim _~/.bash_profile_
+
+  And add `/opt/localIP/` to the file, save and quit.
 
 **To test it out use:**
 
     localIP
-**It should print out your local IP adress.**
 
+It should print out your local IP adress. 
