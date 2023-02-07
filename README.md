@@ -3,11 +3,11 @@ A script coded in C that prints out your local IP
 
 **How to install**
 
-    sudo wget https://github.com/CheemsBread505/local-IP-sciprt/releases/download/v1.0.0/localIP && mkdir /opt/localIP/
+    sudo wget https://github.com/CheemsBread505/local-IP-sciprt/releases/download/v1.0.0/localIP && sudo mkdir /opt/localIP/
 
 **And then:**
 
-    sudo cp localIP /opt/localIP/ && rm localIP
+    sudo cp localIP /opt/localIP/ && sudo rm localIP
    
   **And the final step:**
   
